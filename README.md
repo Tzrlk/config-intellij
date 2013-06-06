@@ -1,4 +1,3 @@
-config-intellij-templates
-=========================
+# config-intellij
 
-My Intellij template configuration files
+My Intellij configuration files
