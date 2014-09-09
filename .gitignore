@@ -1,10 +1,19 @@
-/componentVersions
-/ideTalk
-/plugins
-/options
-/tasks
 
+# Directories
+componentVersions/
+ideTalk/
+plugins/
+options/
+tasks/
+quicklists/
+intellirc/
+eval/
+shelf/
+
+# Files
 disabled_plugins.txt
 disabled_update.txt
 idea12.key
+idea13.key
 port
+

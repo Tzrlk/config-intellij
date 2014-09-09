@@ -17,13 +17,8 @@
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
-      <option name="SQL" value="false" />
-      <option name="GROOVY" value="true" />
-      <option name="GROOVY_EXPRESSION" value="false" />
-      <option name="GROOVY_STATEMENT" value="false" />
-      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="JSP" value="false" />
       <option name="MAVEN" value="false" />
       <option name="OTHER" value="false" />
     </context>
@@ -46,13 +41,8 @@
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
-      <option name="SQL" value="false" />
-      <option name="GROOVY" value="true" />
-      <option name="GROOVY_EXPRESSION" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
-      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JSP" value="false" />
       <option name="MAVEN" value="false" />
       <option name="OTHER" value="false" />
     </context>
